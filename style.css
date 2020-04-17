@@ -90,13 +90,13 @@ body {
 #number {
     margin-top: 9px;
     margin-left: 2em;
-    font-size: 2em;
+    font-size: 1.1em;
 }
 
 #email {
     margin-top: 9px;
     margin-bottom: 3em;
-    font-size: 1.8em;
+    font-size: 1.1em;
 }
 
 #name {
