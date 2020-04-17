@@ -1,0 +1,122 @@
+body {
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+body {
+    background: #131112;
+    max-width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+#head-section {
+    background: url(Rectangle.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 450px;
+}
+
+#pic1 {
+    margin-top: 6em;
+    margin-left: 2em;
+}
+
+#header-text {
+    margin-top: 5em;
+    
+}
+
+#text1 {
+    font-size: 60px;
+    margin-bottom: 0.6em;
+    margin-left: 14px;
+}
+
+#p1 {
+    font-size: 2em;
+    margin-bottom: 2em;
+    margin-left: 14px;
+}
+
+#icon1, #icon2 {
+    margin-right: 4em;
+    margin-left: 14px;
+}
+
+#body-section {
+    margin-top: 3em;
+}
+
+#aikido {
+    height: 44.5em;
+    width: 390em;
+}
+
+#body-p {
+    margin-top: 3em;
+}
+
+#p2 {
+    font-size: 2em;
+}
+
+#p3 {
+    font-size: 1.5em;
+}
+
+#p4 {
+    font-size: 1.2em;
+}
+
+#dob {
+    font-size: 1.4em;
+}
+
+#form-image {
+    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(./smount.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 800px;
+    border-top-left-radius: 2em;
+    border-bottom-left-radius: 2em;
+}
+
+#form-icons {
+    margin-top: 24em;
+    margin-left: 4px;
+}
+
+#number {
+    margin-top: 9px;
+    margin-left: 2em;
+    font-size: 2em;
+}
+
+#email {
+    margin-top: 9px;
+    margin-bottom: 3em;
+    font-size: 1.8em;
+}
+
+#name {
+    border: none;
+    border-bottom: 2px solid white;
+    background-color: transparent;
+}
+
+#mail {
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid white;
+    margin-top: 2.4em;
+}
+
+#area {
+    background-color: transparent;
+    margin-top: 2.4em;
+}
+
+#send {
+    margin-top: 5em;
+}  
